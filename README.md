@@ -8,6 +8,9 @@
 
 **moonbox unifies performance tracking, real-time updates, and execution tools into one clean dashboard — so creators and small teams can plan, monitor, and act from a single workspace.**
 
+<img width="800" height="375" alt="image" src="https://github.com/user-attachments/assets/f7f929c9-dcff-4c4a-8dde-a0a6361b8afa" />
+
+
 <br/>
 
 ---
